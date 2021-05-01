@@ -31,4 +31,3 @@ In the main page (User List), there are list of users and their information such
 
 Future implementation
 There are two future implementations. The first one is creating a function that suggest users recommended books from your favorite author. This function will prevent a user from missing any publications of his favorite writer. The second one is to increase the kinds of genres. This time, we’ve made novel, fiction, poem, and bibliography. However, we do understand the diversity of genres. As we implement much more genres, we expect the number of users and diversity of users in terms of age, gender, and occupations also increase. Though we were able to create this database in the limited time, there are plenty of spaces to enlarge this database and its possibility. Someday, we hope to make such an ideal database. 
-![image](https://user-images.githubusercontent.com/71703309/116769936-73c1b380-aa72-11eb-9b30-24a45e2caaf4.png)
